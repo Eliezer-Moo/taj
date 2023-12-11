@@ -1,0 +1,7 @@
+{
+  "name": "taj",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
